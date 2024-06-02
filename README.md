@@ -18,7 +18,7 @@ LulzSec-kroketool enables the user to have a menu with the most important tools.
 #### • Tools can be installed in the script
 
 ## Installation
-1. git clone https://github.com/BasHB00M01001/LulzSec-kroketool.git
+1. git clone https://github.com/R4GN4R0K-SEC/LulzSec-kroketool.git
 2. cd LulzSec-kroketool
 3. chmod +x LulzSec.sh
 4. sudo ./LulzSec.sh
